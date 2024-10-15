@@ -1,0 +1,29 @@
+#navbar{
+background-color:green;
+margin:1px;
+height:25px;
+font-size:large;
+}
+a{
+padding:10px;
+text-decoration:none;
+color:black;
+display: inline-block;
+}
+a:hover{
+background-color:white;
+}
+.uli{
+list-style-type:none;
+border:solid black;
+padding:30px;
+background-color:skyblue;
+}
+td{
+font-family:Times New Roman;
+font-size:xxx-large;
+text-align:center;
+}
+body{
+background-color:grey;
+}
